@@ -21,8 +21,8 @@
 
         }
     }
-
+    /*
     const antman:Avenger = new Avenger('Antman','capitan america', 'scott lang');
     console.log({antman});
- 
+    */
 })()
